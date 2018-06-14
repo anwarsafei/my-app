@@ -1,3 +1,15 @@
+--------How To Run This App----------
+
+1. Move to this root project folder
+2. Open Command Prompt in this root folder.
+3. Run command "npm start"
+4. It will open browser and automatically run this app
+
+
+=======================================================================================================
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
